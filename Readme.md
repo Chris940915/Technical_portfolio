@@ -13,3 +13,7 @@ Linux 환경에서 Docker를 사용하여 Kafka 및 MongoDB환경을 구축했�
 
 python을 활용하여 Web crawler 작성하였습니다. 
 
+### (데이터 활용 및 분석) 데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력
+[AI rush](https://github.com/ai-rush-2019) [AI Speech](https://github.com/Chris940915/ai_speech)
+
+네이버에 AI rush 와 AI Speech 공모전에 참여했었습니다. 
