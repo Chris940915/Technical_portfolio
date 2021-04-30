@@ -17,3 +17,9 @@ python을 활용하여 Web crawler 작성하였습니다.
 [AI rush](https://github.com/ai-rush-2019), [AI Speech](https://github.com/Chris940915/ai_speech)
 
 네이버에 AI rush 와 AI Speech 공모전에 참여했었습니다. 
+
+
+### (분산 및 클라우드 컴퓨팅) Hadoop, MapReduce, Apache Spark, HDFS 등 분산 데이터 처리 능력
+[GeoSpark](https://github.com/Chris940915/geo_benchmark)
+
+AWS S3, MongoDB, HDFS를 Storage로 사용하여 Spark 와 extension system인 Apach Sedona(GeoSpark)를 사용한 코드로 각 storage 이름 마다 코드가 구성되어있습니다. 
