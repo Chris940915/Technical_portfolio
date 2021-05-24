@@ -5,7 +5,7 @@
 ### (데이터사이언스 공통) Linux, Docker, Virtual Machines, Kubernetes 등을 활용한 데이터 활용 및 분석을 위한 환경 구축 
 [Event detector](https://github.com/Chris940915/MongoKafka)
 
-Linux 환경에서 Docker를 사용하여 Kafka 및 MongoDB환경을 구축했습니다. (branch 에서 확인하실 수 있습니다.)
+Linux 환경에서 Docker를 사용하여 Kafka, zookeeper를 cluster로 구축했습니다.
 
 
 ### (데이터 수집 및 정제) Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부
